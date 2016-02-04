@@ -1,0 +1,21 @@
+[submodule "tmux-continuum"]
+    path = plugins/tmux-continuum
+    url = https://git::@github.com/tmux-plugins/tmux-continuum 
+[submodule "tmux-copycat"]
+    path = plugins/tmux-copycat
+    url = https://git::@github.com/tmux-plugins/tmux-copycat
+[submodule "tmux-open"]
+    path = plugins/tmux-open
+    url = https://git::@github.com/tmux-plugins/tmux-open
+[submodule "tmux-resurrect"]
+    path = plugins/tmux-resurrect 
+    url = https://git::@github.com/tmux-plugins/tmux-resurrect
+[submodule "tmux-sensible"]
+    path = plugins/tmux-sensible 
+    url = https://git::@github.com/tmux-plugins/tmux-sensible
+[submodule "tmux-yank"]
+    path = plugins/tmux-yank
+    url = https://git::@github.com/tmux-plugins/tmux-yank
+[submodule "tpm"]
+    path = plugins/tpm
+    url = https://github.com/tmux-plugins/tpm
