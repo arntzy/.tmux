@@ -4,9 +4,6 @@
 [submodule "tmux-copycat"]
     path = plugins/tmux-copycat
     url = https://git::@github.com/tmux-plugins/tmux-copycat
-[submodule "tmux-open"]
-    path = plugins/tmux-open
-    url = https://git::@github.com/tmux-plugins/tmux-open
 [submodule "tmux-resurrect"]
     path = plugins/tmux-resurrect 
     url = https://git::@github.com/tmux-plugins/tmux-resurrect
