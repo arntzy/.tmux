@@ -16,3 +16,6 @@
 [submodule "tpm"]
     path = plugins/tpm
     url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-open"]
+	path = plugins/tmux-open
+	url = https://github.com/tmux-plugins/tmux-open
